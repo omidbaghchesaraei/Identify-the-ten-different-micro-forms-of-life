@@ -1,0 +1,3 @@
+# Identify-the-ten-different-micro-forms-of-life
+With high accuracy of 98.8%, distinguish between microorganisms using TensorFlow and classic machine learning algorithms. I used Kaggle Microbes Dataset to Identify the ten different micro-forms of life. The first thing I do is train a simple Neural Network using TensorFlow, and then plot accuracy and loss graphs on the training and validation datasets to find a balance between a model that is underfitting and one that is overfitting, resulting in a model with a good fit.
+I also evaluate classic machine learning algorithms using ROC curves and Precision-Recall curves to find the best results. 
